@@ -1,0 +1,6 @@
+version: v2
+modules:
+  - path: googleapis/google/bigtable/v2
+  - path: googleapis/google/api
+#deps:
+#  - buf.build/googleapis/googleapis
